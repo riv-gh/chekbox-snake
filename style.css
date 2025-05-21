@@ -1,0 +1,10 @@
+body {
+    font-family: monospace;
+    zoom: 5;
+}
+#game input, 
+#game div {
+    margin: 0!important;
+    padding: 0!important;
+    line-height: 0;
+}
